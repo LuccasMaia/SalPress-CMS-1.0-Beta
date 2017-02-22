@@ -1,0 +1,62 @@
+.classe_publicacoes_miniatura_relacionadas{
+	
+	float: left;
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	display: table;
+	height: 155px;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #e5eef5;
+	border-left-width: 0px;
+	border-right-width: 0px;
+
+}
+
+.classe_publicacoes_miniatura_relacionadas_titulo{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	font-size: 18px;
+	
+}
+
+.classe_publicacoes_miniatura_relacionadas_conteudo{
+	
+	float: left;
+	width: 100%;	
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_publicacao_miniatura_relacionado{
+	
+	float: left;
+	width: 24.5%;
+	margin-right: 0.5%;
+    height: 125px;
+	overflow: hidden;
+	
+}
+
+.classe_publicacao_miniatura_relacionado_imagem{
+	
+	float: left;
+	width: 100%;
+
+}
+
+.classe_publicacao_miniatura_relacionado_imagem img{
+
+    float: left;
+	min-width: 100%;
+	min-height: 150px;
+
+}
+

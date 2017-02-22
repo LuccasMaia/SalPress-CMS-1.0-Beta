@@ -1,0 +1,39 @@
+.classe_campo_opcao_administrador{
+
+	float: left;
+	width: 99%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	min-height: 225px;
+	margin-bottom: 10px;
+
+}
+
+.classe_div_campo_administrador_resolucao{
+	
+	float: left;
+	width: 98%;
+	padding: 0.5%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	height: 32px;
+
+	background-color: #e5eef5;
+	border-bottom-color: #dbd8df;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+}
+
+.classe_div_campo_administrador_resolucao_div{
+
+	float: left;
+	width: 32px;
+	height: 100%;
+	margin-right: 25px;
+
+}
+

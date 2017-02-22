@@ -1,0 +1,67 @@
+
+.classe_div_conteudo_rodape_copyright{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+	color: #848484;
+	
+}
+
+.classe_div_conteudo_rodape_separa_1, .classe_div_conteudo_rodape_separa_3{
+	
+    float: left;
+    width: 24%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	display: table;
+	table-layout: fixed;
+	text-align: center;
+	
+}
+
+.classe_div_conteudo_rodape_separa_2{
+	
+    float: left;
+    width: 50%;
+	display: table;
+	table-layout: fixed;
+	text-align: center;
+	
+}
+
+.classe_div_campo_editar_rodape{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+
+}
+
+.classe_div_campo_editar_rodape_salvar{
+	
+	float: left;
+	width: 100%;
+    margin-bottom: 5px;
+	
+}
+
+.classe_rodape_desenvolvedor{
+	
+    float: left;
+    width: 98%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-top: 25px;
+	margin-bottom: 25px;
+	color: #848484;
+	text-align: center;
+	
+}
+
+.classe_rodape_desenvolvedor a{
+	
+	color: #848484;
+	
+}

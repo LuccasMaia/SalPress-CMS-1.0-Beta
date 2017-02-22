@@ -1,0 +1,30 @@
+
+.classe_div_pesquisa{
+
+	float: right;
+	width: 313px;
+	margin-top: 75px;
+	display: table;
+	margin-right: 1%;
+
+}
+
+.classe_div_pesquisa input[type='text']{
+
+	float: left;
+	width: 100%;
+	background: url("../imagens/35.png") no-repeat scroll 98% center;
+	height: 40px;
+	font-size: 18px;
+	border-radius: 2px;
+
+}
+
+.classe_div_pesquisa_campos{
+	
+	float: right;
+	width: 100%;	
+	min-height: 50px;
+
+}
+

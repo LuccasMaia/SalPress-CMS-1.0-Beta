@@ -1,0 +1,146 @@
+.classe_div_perfil_usuario{
+
+	border-width: 0px;
+	float: none;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	width: 230px;
+
+    margin-bottom: 10px;
+    display: table;
+    table-layout: fixed;
+
+}
+
+.classe_div_campo_editar_perfil{
+
+	float: left;
+	width: 100%;
+	margin-bottom: 8px;
+	text-align: center;
+	background-color: #333333;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+}
+
+.classe_imagem_perfil{
+
+	float: left;
+	width: 100%;
+	display: block;
+	max-height: 250px;
+	overflow: hidden;
+	margin-bottom: 3px;
+	text-align: center;
+	
+}
+
+.classe_imagem_perfil img{
+
+	float: none;
+	width: 190px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.classe_div_nome_perfil_usuario{
+
+	float: left;
+	width: 100%;
+
+	margin-bottom: 3px;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #ffffff;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+}
+
+.classe_div_campo_editar_perfil_opcao{
+
+	float: left;
+	width: 31%;
+	padding: 1%;
+	margin-bottom: 3px;
+
+}
+
+.classe_div_imagem_perfil_miniatura{
+
+	float: left;
+	width: 50px;
+	max-height: 55px;
+	overflow: hidden;
+
+}
+
+.classe_div_imagem_perfil_miniatura img{
+
+	float: left;
+	width: 100%;
+
+}
+
+.classe_div_campos_editar_perfil{
+
+	float: left;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_div_campos_editar_perfil_separa{
+
+	float: left;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;	
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_div_campos_editar_perfil_separa *{
+
+	float: left;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	
+}
+
+.classe_div_campos_editar_perfil_salva{
+	
+	float: left;
+	width: 90%;
+	padding-left: 10%;
+	margin-top: 15px;
+
+}
+
+.classe_div_sobre_perfil_usuario{
+
+	float: left;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: center;
+	margin-bottom: 15px;
+
+}
+
+.classe_div_campo_editar_perfil a{
+	
+	color: #ffffff;
+	
+}

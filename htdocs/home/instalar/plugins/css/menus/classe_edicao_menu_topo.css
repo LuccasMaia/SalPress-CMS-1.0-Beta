@@ -1,0 +1,24 @@
+.classe_campo_edita_menu{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+
+.classe_campo_edita_menu_separa{
+
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 2px;	
+	
+}
+
+.classe_campo_edita_menu_separa input[type='text']{
+	
+	float: left;
+	width: 300px;
+	
+}

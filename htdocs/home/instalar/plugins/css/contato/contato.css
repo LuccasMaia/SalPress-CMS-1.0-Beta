@@ -1,0 +1,66 @@
+.classe_div_formulario_contato{
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	padding: 5px;
+	display: table;
+	margin-top: 25px;
+
+	border-width: 2px;
+	border-color: #ffffff;
+	border-style: solid;
+
+}
+
+.classe_div_formulario_contato span{
+
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+.classe_div_formulario_contato_div_1{
+
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 15px;
+	display: table;
+	text-align: center;
+	width: 100%;
+
+}
+
+.classe_div_formulario_contato_div_1 span{
+
+	float: left;
+	margin-top: 35px;
+	font-size: 28px;
+
+}
+
+.classe_div_formulario_contato_div_2{
+	
+	float: left;
+	width: 98%;
+	display: table;
+	padding-left: 1%;
+	padding-right: 1%;
+
+}
+
+.classe_div_formulario_contato_div_2 input[type='text']{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_div_formulario_contato_div_2 textarea{
+
+ 	float: left;
+	width: 100%;  
+
+}
+

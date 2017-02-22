@@ -1,0 +1,37 @@
+.classe_campo_paginacao_numerica{
+	
+	float: left;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 25px;
+	
+}
+
+.classe_campo_paginacao_numerica a{
+	
+	float: left;
+	font-weight: bold;
+	font-size: 15px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	height: 25px;
+	
+}
+
+.link_paginacao_selecionado{
+
+	background-color: tomato;
+	color: #ffffff;
+	
+}
+
+.link_paginacao{
+	
+	background-color: #333333;
+	color: #ffffff;
+	
+}

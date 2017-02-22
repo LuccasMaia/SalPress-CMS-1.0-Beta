@@ -1,0 +1,39 @@
+.classe_div_navegacao_lateral{
+
+    float: left;
+    width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_div_navegacao_lateral a{
+
+    float: left;
+    width: 100%;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+
+    border-bottom-color: #e9f6fc;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+
+}
+
+.classe_div_navegacao_lateral a:hover{
+
+    color: #000000;
+
+}
+
+.classe_div_navegacao_lateral_titulo{
+	
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+    padding-top: 3px;	
+	padding-bottom: 3px;
+
+}

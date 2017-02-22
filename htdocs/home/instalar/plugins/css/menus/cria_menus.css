@@ -1,0 +1,104 @@
+
+.classe_campo_criar_menus_site{
+
+    float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+
+.classe_div_campo_cria_menu{
+	
+    float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+
+}
+
+.classe_div_campo_cria_menu input[type='text']{
+	
+	margin: 0px;
+	width: 300px;
+	
+}
+
+.classe_div_campo_cria_menu_entrada{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 7px;
+	
+}
+
+.classe_div_campo_cria_menu_cria{
+	
+	float: left;
+	width: 100%;	
+	
+}
+
+.classe_campo_criar_menus_site_campos{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_campo_criar_menus_site_select{
+
+	float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 20px;
+	margin-bottom: 10px;	
+	
+}
+
+.classe_campo_criar_menus_site_select select{
+	
+	float: left;
+	width: 300px;
+	margin: 0px;
+	
+}
+
+.classe_campo_criar_menus_site_submenus{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 5px;
+	margin-bottom: 10px;
+
+}
+
+.classe_campo_excluir_menu{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 3px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_excluir_menu_span{
+	
+	float: left;
+	margin-right: 5px;
+	cursor: pointer;
+	
+}

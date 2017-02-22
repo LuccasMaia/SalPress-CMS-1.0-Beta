@@ -1,0 +1,67 @@
+.classe_publicacoes_miniatura_novidades{
+	
+	float: left;
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 30px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	display: table;
+	
+	border-width: 1px;
+	border-style: solid;
+	border-color: #e5eef5;
+	border-left-width: 0px;
+	border-right-width: 0px;
+
+}
+
+.classe_publicacoes_miniatura_novidades_titulo{
+	
+    float: left;
+    width: 98%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-bottom: 5px;
+    padding-top: 3px;	
+	padding-bottom: 3px;
+	background-color: #333333;
+	color: #ffffff;
+	
+}
+
+.classe_publicacoes_miniatura_novidades_conteudo{
+	
+	float: left;
+	width: 100%;	
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_publicacao_miniatura_novidades{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 15px;
+	
+}
+
+.classe_publicacao_miniatura_novidades_imagem{
+	
+	float: left;
+	width: 100%;
+	overflow: hidden;
+
+}
+
+.classe_publicacao_miniatura_novidades_imagem img{
+
+    float: left;
+	width: 100%;
+	min-height: 125px;
+
+}

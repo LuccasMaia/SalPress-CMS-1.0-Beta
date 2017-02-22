@@ -1,0 +1,23 @@
+.classe_campo_entrada_widget_postagem, .classe_campo_salvar_widget_postagem{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+
+}
+
+.classe_campo_salvar_widget_postagem{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_widget_postagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}

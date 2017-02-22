@@ -1,0 +1,25 @@
+.classe_editar_mensagem_subrodape{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+
+.classe_editar_mensagem_subrodape_editor{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+.classe_editar_mensagem_subrodape_salvar{
+	
+	float: left;
+	width: 100%;
+
+}

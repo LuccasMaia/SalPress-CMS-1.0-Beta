@@ -1,0 +1,35 @@
+.classe_div_campo_cadastro_login{
+
+	float: left;
+	width: 99%;
+	padding: 0.5%;
+	display: table;
+	text-align: center;
+	margin-top: 25px;
+
+}
+
+.classe_div_campo_cadastro_login a{
+
+	font-weight: bold;
+
+}
+
+.classe_cadastro_topo{
+	
+    position: absolute;
+	right: 1%;
+	top: 35px;
+	padding: 2px;
+	background-color: #333333;
+	padding: 8px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+}
+
+.classe_cadastro_topo a{
+	
+	color: #ffffff;
+	
+}

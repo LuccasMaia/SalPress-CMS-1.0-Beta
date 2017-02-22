@@ -1,0 +1,48 @@
+.classe_campo_criar_anuncio_postagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_campo_criar_anuncio_postagem_conteudo{
+
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+
+}
+
+.classe_campo_criar_anuncio_postagem_salvar{
+
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_anuncio_postagem{
+	
+    float: left;
+	width: 96%;
+	display: table;
+	table-layout: fixed;
+	height: auto;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 12px;
+	
+}
+
+.classe_anuncio_postagem:empty{
+	
+	display: none;
+	
+}

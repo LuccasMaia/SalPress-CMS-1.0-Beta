@@ -1,0 +1,178 @@
+.classe_campo_criar_categoria{
+	
+	float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	display: table;
+	table-layout: fixed;
+	padding-bottom: 5px;
+
+}
+
+.classe_campo_criar_categoria_imagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 3px;
+	
+}
+
+.classe_campo_criar_categoria_nome{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 3px;
+	
+}
+
+.classe_campo_criar_categoria_nome input[type='text']{
+
+    width: 250px;
+
+}
+
+.classe_campo_criar_categoria_descreve{
+	
+    float: left;
+	width: 100%;	
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_criar_categoria_adicionar{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+
+}
+
+.classe_campo_criar_categoria_categorias{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_categoria_administrar{
+	
+    float: left;
+	width: 100%;	
+	
+}
+
+.classe_categoria_administrar_categoria{
+	
+	float: left;
+	width: 35%;
+	margin-bottom: 3px;
+	
+}
+
+.classe_categoria_administrar_categoria input[type='text']{
+	
+    float: left;
+	width: 99%;
+	
+}
+
+.classe_categoria_administrar_gerenciar{
+	
+	float: left;
+	width: 8.5%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	margin-right: 0.5%;
+	margin-bottom: 3px;
+	height: 16px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	margin-top: 8px;
+	cursor: pointer;
+	background-color: #333333;
+	
+}
+
+.classe_categoria_administrar_gerenciar img{
+	
+	cursor: pointer;
+	
+}
+
+.classe_div_campo_categoria_select{
+	
+    float: left;
+    width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+    display: table;
+    table-layout: fixed;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_div_campo_categoria_select select{
+	
+	min-width: 300px;
+	margin: 0px;
+	
+}
+
+.classe_div_campo_categoria_select_titulo{
+	
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+	
+}
+
+.classe_div_campo_categoria_select_conteudo{
+	
+    float: left;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_div_categoria_postagem{
+	
+	float: left;
+    width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_categoria_administrar_categoria_cor{
+	
+	float: left;
+	width: 35%;
+	display: table;
+	
+}
+
+.classe_categoria_administrar_categoria_cor input[type='text']{
+	
+	width: 98%;
+	
+}
+
+.classe_categoria_administrar_categoria_cor_salvar{
+	
+	float: left;
+	width: 20%;
+	display: table;	
+
+}

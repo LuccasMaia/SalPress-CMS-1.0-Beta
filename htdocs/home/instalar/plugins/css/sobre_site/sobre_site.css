@@ -1,0 +1,33 @@
+.classe_campo_editar_sobre_site{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_campo_editar_sobre_site_separa{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_editar_sobre_site_separa *{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_campo_editar_sobre_site_salvar{
+	
+	float: left;
+	width: 100%;
+	margin-top: 15px;
+	
+}
+
